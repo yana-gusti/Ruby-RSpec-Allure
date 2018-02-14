@@ -1,6 +1,6 @@
-# Upwork Test Task README
+# Ruby framework for automation tests using RSpec and Allure reporting
 
-###Task: Write in Ruby automation testcase by Tue. 
+###Test in example does the following
 1. Go to https://www.upwork.com/
 2. Type keyword “Ruby” in Find Freelancer search box 
 3. On Find Freelancer Search result page select additional filters: 
@@ -22,11 +22,8 @@ Driver is set up for local testing in Google Chrome, without parallel execution.
 sh run.sh 
 ```
 
-### If report will not open automatically, please open the file via some browser
+### If report will not open automatically, open the file via some browser
 
 ```
 allure-report/index
 ```
-
-
-# Ruby-RSpec-Allure
